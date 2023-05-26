@@ -8,6 +8,7 @@ Technologies
       - Exceptions 
       - System.in Scanner 
       - Reading from a file
+      - Unit Tests with JUnit
 
 Fuctionality: 
 The program allows the user to do the following 
